@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Jsjnsns7876/static/css/main.8b0db0ad.css",
-    "main.js": "/Jsjnsns7876/static/js/main.59ba819a.js",
-    "static/media/hero-dark.jpg": "/Jsjnsns7876/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/Jsjnsns7876/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/Jsjnsns7876/service-worker.js",
-    "static/media/GH.svg": "/Jsjnsns7876/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/logo.svg": "/Jsjnsns7876/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Jsjnsns7876/index.html",
-    "main.8b0db0ad.css.map": "/Jsjnsns7876/static/css/main.8b0db0ad.css.map",
-    "main.59ba819a.js.map": "/Jsjnsns7876/static/js/main.59ba819a.js.map"
+    "main.css": "/Jsjnsns788/static/css/main.8b0db0ad.css",
+    "main.js": "/Jsjnsns788/static/js/main.81d58ea1.js",
+    "static/media/hero-dark.jpg": "/Jsjnsns788/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/Jsjnsns788/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/Jsjnsns788/service-worker.js",
+    "static/media/GH.svg": "/Jsjnsns788/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/Jsjnsns788/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Jsjnsns788/index.html",
+    "main.8b0db0ad.css.map": "/Jsjnsns788/static/css/main.8b0db0ad.css.map",
+    "main.81d58ea1.js.map": "/Jsjnsns788/static/js/main.81d58ea1.js.map"
   },
   "entrypoints": [
     "static/css/main.8b0db0ad.css",
-    "static/js/main.59ba819a.js"
+    "static/js/main.81d58ea1.js"
   ]
 }
